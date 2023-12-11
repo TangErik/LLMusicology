@@ -1,7 +1,6 @@
 grpcio
-pysqlite3
 openai
 unstructured
-chromadb
+chromadb==0.3.29
 tiktoken
 langchain

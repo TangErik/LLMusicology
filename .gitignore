@@ -1,0 +1,7 @@
+__pycache__/
+output_dir/
+*.txt
+*.ipynb
+
+
+!requirements.txt

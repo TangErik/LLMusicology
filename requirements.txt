@@ -1,0 +1,7 @@
+grpcio
+pysqlite3
+openai
+unstructured
+chromadb
+tiktoken
+langchain
